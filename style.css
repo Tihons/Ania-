@@ -1,0 +1,161 @@
+body {
+    background-color: #e5e5e5;
+    width: 1200px;
+    height: 1319px;
+  }
+  .left-part {
+    background-color: rgb(41, 39, 39);
+    width: 370px;
+    height: 1319px;
+    color: #ffff;
+  }
+  .right-part {
+    margin-left: 88px;
+  }
+  .front {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0%;
+    margin-bottom: 8px;
+  }
+  .about-me {
+    width: 702;
+    height: 154;
+    margin-top: 80px;
+  }
+  .about-me-paragraph {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    max-width: 702px;
+    height: 50px;
+    color: #595959;
+    margin: 0px;
+  }
+  .wrapher {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+  .h1 {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    letter-spacing: 0%;
+    margin: 0px;
+    width: 691px;
+    height: 45px;
+  }
+  .img {
+    margin-top: 40px;
+  }
+  .Contacts {
+    width: 191px;
+    height: 83px;
+    margin: 40px;
+  }
+  .email {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    width: 165px;
+    height: 48px;
+  }
+  .contact {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-bottom: 8px;
+  }
+  .contact-paragrapgh {
+    margin: 0px;
+  }
+  .tech-skills {
+    margin-left: 40px;
+  }
+  .tech {
+    margin: 0px;
+  }
+  .soft-skills {
+    margin-left: 40px;
+  }
+  .tech-list {
+    margin-bottom: 0px;
+  }
+  .coment {
+    margin: 0px;
+  }
+  .soft-teg {
+    margin-top: 40px;
+  }
+  .projects {
+    margin-top: 40px;
+  }
+  .project {
+    margin-bottom: 8px;
+  }
+  .ol {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .work {
+    margin-top: 40px;
+  }
+  .work-exp {
+    margin-top: 0px;
+    margin-bottom: 8px;
+  }
+  .hz {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0%;
+    color: black;
+    margin-top: 0;
+    margin-bottom: 12px;
+  }
+  .span {
+    color: #6d9bf5;
+  }
+  .hto-zna {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0%;
+    color: #a8a8a8;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+  .ul {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color: #595959;
+    margin-top: 8px;
+  }
+  .Education {
+    margin-top: 40px;
+    margin-bottom: 0px;
+  }
+  .num {
+    margin-top: 8px;
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #6d9bf5;
+  }
+  
